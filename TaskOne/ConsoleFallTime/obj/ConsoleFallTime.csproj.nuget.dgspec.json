@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\ConsoleFallTime\\ConsoleFallTime.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\ConsoleFallTime\\ConsoleFallTime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\ConsoleFallTime\\ConsoleFallTime.csproj",
+        "projectName": "ConsoleFallTime",
+        "projectPath": "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\ConsoleFallTime\\ConsoleFallTime.csproj",
+        "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\ConsoleFallTime\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\FormulasLib\\FormulasLib.csproj": {
+                "projectPath": "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\FormulasLib\\FormulasLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\FormulasLib\\FormulasLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\FormulasLib\\FormulasLib.csproj",
+        "projectName": "FormulasLib",
+        "projectPath": "C:\\Users\\Arthur\\Desktop\\Nazaryan\\Lab1\\TaskOne\\FormulasLib\\FormulasLib.csproj"
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}

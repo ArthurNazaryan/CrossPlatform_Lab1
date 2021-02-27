@@ -1,0 +1,6 @@
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\SeriesSum\bin\Debug\SeriesSum.dll
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\SeriesSum\bin\Debug\SeriesSum.pdb
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\SeriesSum\obj\Debug\SeriesSumLib.csprojAssemblyReference.cache
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\SeriesSum\obj\Debug\SeriesSumLib.csproj.CoreCompileInputs.cache
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\SeriesSum\obj\Debug\SeriesSum.dll
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\SeriesSum\obj\Debug\SeriesSum.pdb

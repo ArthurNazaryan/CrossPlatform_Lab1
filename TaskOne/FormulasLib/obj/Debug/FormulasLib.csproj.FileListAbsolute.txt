@@ -1,0 +1,6 @@
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\FormulasLib\bin\Debug\FormulasLib.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\FormulasLib\bin\Debug\FormulasLib.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\FormulasLib\obj\Debug\FormulasLib.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\FormulasLib\obj\Debug\FormulasLib.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\FormulasLib\obj\Debug\FormulasLib.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\FormulasLib\obj\Debug\FormulasLib.pdb

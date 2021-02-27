@@ -1,0 +1,16 @@
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\ConsoleFallTime.exe
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\ConsoleFallTime.deps.json
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\ConsoleFallTime.runtimeconfig.json
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\ConsoleFallTime.runtimeconfig.dev.json
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\ConsoleFallTime.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\ConsoleFallTime.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\FormulasLib.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\bin\Debug\netcoreapp3.1\FormulasLib.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskOne\ConsoleFallTime\obj\Debug\netcoreapp3.1\ConsoleFallTime.genruntimeconfig.cache

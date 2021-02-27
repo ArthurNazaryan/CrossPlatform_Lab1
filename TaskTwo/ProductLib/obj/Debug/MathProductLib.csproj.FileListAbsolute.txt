@@ -1,0 +1,6 @@
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskTwo\ProductLib\bin\Debug\ProductLib.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskTwo\ProductLib\bin\Debug\ProductLib.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskTwo\ProductLib\obj\Debug\MathProductLib.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskTwo\ProductLib\obj\Debug\MathProductLib.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskTwo\ProductLib\obj\Debug\ProductLib.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\TaskTwo\ProductLib\obj\Debug\ProductLib.pdb

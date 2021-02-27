@@ -1,0 +1,16 @@
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.exe
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.deps.json
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.runtimeconfig.json
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.runtimeconfig.dev.json
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.dll
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.pdb
+C:\Users\Arthur\Desktop\Nazaryan\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.genruntimeconfig.cache

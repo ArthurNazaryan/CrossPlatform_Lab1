@@ -1,0 +1,16 @@
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\ConsoleSeriesSum.exe
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\ConsoleSeriesSum.deps.json
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\ConsoleSeriesSum.runtimeconfig.json
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\ConsoleSeriesSum.runtimeconfig.dev.json
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\ConsoleSeriesSum.dll
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\ConsoleSeriesSum.pdb
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.csprojAssemblyReference.cache
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.AssemblyInfoInputs.cache
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.AssemblyInfo.cs
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.csproj.CoreCompileInputs.cache
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.dll
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.pdb
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.genruntimeconfig.cache
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\SeriesSum.dll
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\bin\Debug\netcoreapp3.1\SeriesSum.pdb
+D:\Other\Кросплатф\Nazaryan\Lab1\TaskThree\ConsoleSeriesSum\obj\Debug\netcoreapp3.1\ConsoleSeriesSum.csproj.CopyComplete
